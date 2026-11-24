@@ -1,8 +1,10 @@
 <div align="center">
 
-<a href="https://cooklab.fun">
-  <img src="https://cooklab.fun/brand/cooklabs-logo.svg" alt="CookLab" width="420" />
-</a>
+<a href="https://cooklab.fun"><img src="../assets/cooklab-banner.png" alt="CookLab market network" width="100%" /></a>
+
+<br />
+
+<a href="https://cooklab.fun"><img src="../assets/cooklabs-logo.svg" alt="CookLab" width="360" /></a>
 
 ### The Social Launchpad for Solana
 
